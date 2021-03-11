@@ -1,5 +1,5 @@
 ***
-## PASSWORD STRENGTH CHECKER FOR SIGN UP PAGE		      
+## PASSWORD STRENGTH CHECKER (for Sign Up page)	      
 ***
 ##### Made By:
 
